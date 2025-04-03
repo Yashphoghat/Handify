@@ -14,7 +14,7 @@
 - [Contributors](#contributors)
 
 ## Introduction
-**Handify** is a Sign Language Recognition System that utilizes computer vision and machine learning to recognize and translate sign language gestures into text. The project aims to bridge communication gaps for individuals who are deaf or hard of hearing.
+**Handify** is a Sign Language Recognition System that utilizes computer vision and machine learning to recognize and translate sign language gestures into text. The project aims to bridge communication gaps for individuals who are deaf or hard of hearing..
 
 ## Problem Statement
 Sign language is often misunderstood or misinterpreted by those unfamiliar with it. Handify seeks to improve communication and accessibility for individuals using sign language by providing an intuitive recognition system.
